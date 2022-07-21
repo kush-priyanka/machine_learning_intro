@@ -1,1 +1,6 @@
 *.pdf
+*Rproj
+*.Rhistory
+
+https://public.confluence.arizona.edu/display/UAHPC/Machine+Learning+on+HPC?preview=/128811060/128811062/ML-with%20R.pdf
+.Rproj.user
