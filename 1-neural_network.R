@@ -130,3 +130,6 @@ predicted.nn.values1$net.result <- sapply(predicted.nn.values1$net.result,
 # Create a simple confusion matrix to check the trainer against test
 table(test1$Private, 
       predicted.nn.values1$net.result)
+#              Predicted No    Predicted Yes
+# Actual No     TN=36           FP=6
+# Actual Yes    FN=62           TP =111
